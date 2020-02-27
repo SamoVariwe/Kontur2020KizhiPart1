@@ -1,0 +1,7 @@
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\bin\Debug\Kizhi1.exe.config
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\bin\Debug\Kizhi1.exe
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\bin\Debug\Kizhi1.pdb
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\obj\Debug\Kizhi1.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\obj\Debug\Kizhi1.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\obj\Debug\Kizhi1.exe
+C:\Users\Игорь\source\repos\Kizhi1\Kizhi1\obj\Debug\Kizhi1.pdb
